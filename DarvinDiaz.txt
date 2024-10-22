@@ -21,6 +21,9 @@ La historia de la programación es fascinante y refleja el desarrollo de las tec
 1991: Python es creado por Guido van Rossum, conocido por su simplicidad y versatilidad.
 1995: Nacen Java, que introduce el lema "escribir una vez, ejecutar en cualquier lugar", y JavaScript, diseñado inicialmente para hacer páginas web interactivas.
 6. Internet y programación web (1990-2000)
+
+ronny panduro
+
 1995: Aparece PHP, un lenguaje para desarrollo web dinámico.
 1998: Surge XML, permitiendo el intercambio de datos estructurados.
 1999: HTML y CSS se consolidan como estándares esenciales para la creación de sitios web.
