@@ -4,7 +4,7 @@ Una de las principales ventajas de GitHub es la posibilidad de colaborar de form
 
 ronny panduro
 
-Además de la colaboración, GitHub ofrece herramientas para gestionar el flujo de trabajo del desarrollo de software. Funcionalidades como los issues, que permiten reportar errores o sugerir mejoras, y la integración con herramientas externas de automatización, hacen de GitHub un ecosistema completo. Es una plataforma fundamental para desarrolladores, empresas tecnológicas y proyectos que requieren organización y escalabilidad en el desarrollo de software.
+Además de la colaboración, GitHub ofrece herramientas para gestionar el flujo de trabajo del desarrollo de software. Funcionalidades como los issues, que permiten reportar errores o sugerir mejoras, y isai altaf paucar lazo la integración con herramientas externas de automatización, hacen de GitHub un ecosistema completo. Es una plataforma fundamental para desarrolladores, empresas tecnológicas y proyectos que requieren organización y escalabilidad en el desarrollo de software.
 
 LUIS E GONZALES MAIZ
 HAROLD OZAMBELA

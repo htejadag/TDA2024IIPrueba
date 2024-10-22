@@ -17,7 +17,7 @@ Si fuéramos una tela, no tendríamos ninguno de estos problemas, ya que sabemos
 
 TINEO LEON YERSON
 
-Pero trabajamos con soluciones de software para satisfacer las necesidades de las personas, y estas siempre cambian y evolucionan. Aquí viene el mayor problema con la metodología en cascada. Tenemos que esperar hasta el final de la implementación para recibir comentarios y luego comenzar todo el proceso nuevamente, ¿y qué pasa si las necesidades del usuario han cambiado en el ínterin? Acabamos de desperdiciar mucho tiempo útil.
+Pero trabajamos con soluciones de software para satisfacer las necesidades de las personas, y estas siempre cambian y evolucionan. Aquí viene el mayor problema con la metodología en ISAI ALTAF PAUCAR LAZO cascada. Tenemos que esperar hasta el final de la implementación para recibir comentarios y luego comenzar todo el proceso nuevamente, ¿y qué pasa si las necesidades del usuario han cambiado en el ínterin? Acabamos de desperdiciar mucho tiempo útil.
 
 Una gran analogía es la del piloto de un avión, le gustaría ser informado lo antes posible si hay algún problema con el avión y no esperar hasta que el motor falle, o peor aún, el avión se estrelle para recibir una notificación.
 
