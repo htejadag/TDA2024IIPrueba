@@ -2,4 +2,8 @@ La inteligencia artificial (IA) es una rama de la informática que se dedica a l
 
 La IA se basa en el desarrollo de algoritmos que permiten a las máquinas aprender de los datos, adaptarse a nuevas situaciones y mejorar su rendimiento a través de la experiencia. Este proceso de aprendizaje automático (machine learning) es esencial para que las máquinas puedan analizar grandes volúmenes de datos y extraer información valiosa que puede ser utilizada para diversas aplicaciones, desde la medicina hasta la industria del entretenimiento.
 
+ronny panduro
+Luis Enrique Gonzales Maiz
 A pesar de estos avances, es importante recordar que la IA no es un reemplazo para la inteligencia humana, sino una herramienta complementaria que amplifica nuestras capacidades y nos ayuda a abordar problemas de manera más efectiva. La inteligencia artificial, en esencia, es una extensión de nuestra capacidad para entender y transformar el mundo que nos rodea mediante el uso de la tecnología.
+
+HAROLD OZAMBELA
