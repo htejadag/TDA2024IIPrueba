@@ -10,8 +10,7 @@ ronny panduro
 WALTER SANCHEZ
 Los componentes definen vistas, que son conjuntos de elementos de la pantalla que Angular puede elegir y modificar de acuerdo con la lógica y los datos de tu programa.
 
-
-RODRIGO GERARDO MAITA RODRIGUEZ
+KAEL JESUS TORRE PEREZ
 
 Los componentes usan servicios, los cuales proporcionan una funcionalidad específica que no está directamente relacionada con las vistas. Los proveedores de servicios pueden inyectarse en componentes como dependencias, haciendo que tu código sea modular, reutilizable y eficiente.
 
@@ -19,7 +18,7 @@ Los módulos, componentes y servicios son clases que usan decoradores. Estos dec
 
 Los metadatos para una clase componente son asociados con una plantilla que define una vista. Una plantilla combina HTML ordinario con directivas de Angular y enlace markup que permiten a Angular modificar el HTML antes de mostrarlo para su visualización.
 
-Los metadatos para una clase servicio proporcionan la información que Angular necesita para que esté disponible para los componentes a través de la Inyección de Dependencia (ID).
+Los metadatos para una clase servicio proporcionan la información isai altaf paucar lazo que Angular necesita para que esté disponible para los componentes a través de la Inyección de Dependencia (ID).
 
 Los componentes de una aplicación suelen definir muchas vistas, ordenadas jerárquicamente. Angular proporciona el servicio Router para ayudarte a definir rutas de navegación entre vistas. El enrutador proporciona capacidades de navegación sofisticadas en el navegador.
 
