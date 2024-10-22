@@ -1,8 +1,6 @@
 Hola Mundo
-¿Qué es Git?
-Git es un proyecto de código abierto que se inició en 2005 y creció hasta convertirse en uno de los VCS más populares del mercado: 
-cerca del 87% de los desarrolladores utilizan Git para sus proyectos.
 
 Luis E Gonzales Maiz
 HAROLD OZAMBELA
-isai altaf paucar lazo
+ronny panduro
+WALTER SANCHEZ
