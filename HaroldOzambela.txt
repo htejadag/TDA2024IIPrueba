@@ -6,6 +6,8 @@ Se planifica cómo hacerlo, a menudo con un análisis y diseño de la solución.
 Se implementa, creando software funcional.
 Se entrega el software y se espera el feedback, creando documentación durante el proceso.
 Mantenimiento de la solución funcional.
+ronny panduro
+
 Una vez que entregamos la solución, pedimos feedback y si necesitamos cambiar algo, comenzamos todo el proceso nuevamente.
 
 Esto es genial siempre y cuando los requisitos sean super estables y sepamos que no cambiarán durante la implementación, algo que en el mundo real es prácticamente imposible ya que SIEMPRE cambian.
