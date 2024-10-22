@@ -1,3 +1,4 @@
+LUIS E GONZALES MAIZ
 Introducción a los conceptos de Angular
 Angular es una plataforma y un framework para crear aplicaciones de una sola página en el lado del cliente usando HTML y TypeScript. Angular está escrito en TypeScript. Implementa la funcionalidad básica y opcional como un conjunto de bibliotecas TypeScript que importas en tus aplicaciones.
 
