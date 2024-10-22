@@ -1,4 +1,9 @@
 Hola Soy Pepito
 
+<<<<<<< Updated upstream
 ronny panduro
 LUIS E GONZALES MAIZ
+=======
+
+KAEL JESUS TORRE PEREZ
+>>>>>>> Stashed changes

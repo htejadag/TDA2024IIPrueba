@@ -1,7 +1,11 @@
 —¿Sabes cuál es el animal más antiguo?
 —La cebra.
 
+<<<<<<< Updated upstream
 ronny panduro
+=======
+KAEL JESUS TORRE PEREZ
+>>>>>>> Stashed changes
 
 —¿Por qué?
 —Porque está en blanco y negro.
