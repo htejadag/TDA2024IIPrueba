@@ -1,3 +1,8 @@
 Que es loguiado?
+
+***************************************
+****RODRIGO GERARDO MAITA RODRIGUEZ****
+***************************************
+
 Administrador de credenciales de windows
 Cuando es un proyecto hit esta la ubicación del repositorio y esta la rama
