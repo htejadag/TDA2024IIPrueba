@@ -1,8 +1,6 @@
 GitHub es una plataforma de alojamiento de código basada en Git, un sistema de control de versiones diseñado para gestionar el desarrollo colaborativo de proyectos de software. Fundada en 2008, GitHub se ha convertido en uno de los espacios más importantes para que desarrolladores y empresas gestionen proyectos, compartan código y trabajen en equipo. La plataforma permite crear repositorios, que son espacios donde se almacena y organiza el código, facilitando su control y revisión a lo largo del tiempo.
 
-***************************************
-****RODRIGO GERARDO MAITA RODRIGUEZ****
-***************************************
+RODRIGO GERARDO MAITA RODRIGUEZ
 
 Una de las principales ventajas de GitHub es la posibilidad de colaborar de forma eficiente. A través de funciones como pull requests, varios desarrolladores pueden trabajar en distintas versiones del código simultáneamente, revisar cambios propuestos por otros y fusionar mejoras al proyecto principal. Esto es especialmente útil para proyectos de código abierto, donde colaboradores de todo el mundo pueden contribuir y revisar código, lo que mejora la calidad y la seguridad del software.
 
