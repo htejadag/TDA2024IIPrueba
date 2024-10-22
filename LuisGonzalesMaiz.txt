@@ -3,6 +3,8 @@ Angular es una plataforma y un framework para crear aplicaciones de una sola pá
 
 La arquitectura de una aplicación en Angular se basa en ciertos conceptos fundamentales. Los bloques de construcción básicos son los NgModules, que proporcionan un contexto de compilación para los componentes. Los NgModules recopilan código relacionado en conjuntos funcionales; una aplicación de Angular se define por un conjunto de NgModules. Una aplicación siempre tiene al menos un módulo raíz que permite el arranque y generalmente tiene muchos más módulos de funcionalidad.
 
+ronny panduro
+
 Los componentes definen vistas, que son conjuntos de elementos de la pantalla que Angular puede elegir y modificar de acuerdo con la lógica y los datos de tu programa.
 
 Los componentes usan servicios, los cuales proporcionan una funcionalidad específica que no está directamente relacionada con las vistas. Los proveedores de servicios pueden inyectarse en componentes como dependencias, haciendo que tu código sea modular, reutilizable y eficiente.
