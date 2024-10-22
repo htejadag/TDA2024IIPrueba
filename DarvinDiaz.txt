@@ -40,3 +40,4 @@ Blockchain y criptomonedas (Solidity).
 Programación funcional (Haskell, Elixir).
 Conclusión
 La programación ha pasado de ser una tarea especializada y limitada a ciertos ámbitos científicos a una disciplina esencial en todos los sectores. La evolución continuará, impulsada por la inteligencia artificial, la computación cuántica y nuevas formas de interactuar con la tecnología.
+harold ozambela 
