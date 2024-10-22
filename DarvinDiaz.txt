@@ -9,6 +9,9 @@ La historia de la programación es fascinante y refleja el desarrollo de las tec
 1944: Se construye la Mark I, una computadora desarrollada en Harvard, capaz de ejecutar programas almacenados en tarjetas perforadas.
 3. Primeras generaciones de lenguajes de programación (1950-1960)
 1957: Se crea FORTRAN (FORmula TRANslation), uno de los primeros lenguajes de alto nivel, orientado a aplicaciones científicas.
+
+
+Manuel Chirinos BArbarán
 1959: Surge COBOL (COmmon Business-Oriented Language), diseñado para negocios y procesamiento de datos.
 1958: Se desarrolla LISP, utilizado en inteligencia artificial y considerado uno de los lenguajes más antiguos aún en uso.
 4. Expansión de los lenguajes y sistemas operativos (1960-1980)
