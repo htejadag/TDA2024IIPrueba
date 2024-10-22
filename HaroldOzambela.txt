@@ -1,6 +1,7 @@
 Problemas del enfoque en cascada:
 Vamos a hablar de la cascada, sí, el chico malo de la ciudad, el que todo el mundo odia. La idea principal de la metodología en cascada es:
 
+ABEL CALDERON LAZO
 Obtenemos los requisitos, lo que queremos hacer, las necesidades de los interesados.
 Se planifica cómo hacerlo, a menudo con un análisis y diseño de la solución.
 Se implementa, creando software funcional.
