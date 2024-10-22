@@ -1,5 +1,18 @@
 Hola Mundo
+¿Qué es Git?
+Git es un proyecto de código abierto que se inició en 2005 y creció hasta convertirse en uno de los VCS más populares del mercado: 
+cerca del 87% de los desarrolladores utilizan Git para sus proyectos.
 
+Se trata de un sistema de control de versiones distribuido. Esto significa que cualquier desarrollador del equipo que tenga acceso 
+puede gestionar el código fuente y su historial de cambios utilizando las herramientas de línea de comandos de Git.
+
+A diferencia de los sistemas de control de versiones centralizados, Git ofrece ramas de características. 
+Esto significa que cada ingeniero de software en el equipo puede dividir una rama de características que proporcionará un repositorio 
+local aislado para hacer cambios en el código.
+
+Las ramas de características no afectan a la rama maestra, que es donde se encuentra el código original del proyecto. 
+Una vez que se hayan realizado los cambios y el código actualizado esté listo, la rama de características puede fusionarse de nuevo con la rama maestra, 
+que es la forma en que se harán efectivos los cambios en el proyecto.
 
 
 
