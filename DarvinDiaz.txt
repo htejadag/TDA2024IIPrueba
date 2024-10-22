@@ -15,6 +15,9 @@ La historia de la programación es fascinante y refleja el desarrollo de las tec
 1964: Aparece BASIC, un lenguaje sencillo creado para la enseñanza de programación.
 1969: Se inicia el desarrollo de UNIX, un sistema operativo cuyo diseño modular influenciará muchos sistemas modernos.
 1972: Dennis Ritchie crea C, un lenguaje eficiente que se convierte en la base de muchos sistemas operativos, incluido UNIX.
+
+
+Manuel Chirinos BArbarán
 5. Programación orientada a objetos y la era del software (1980-1990)
 1983: Se desarrolla C++, una extensión de C que introduce la programación orientada a objetos (OOP).
 1987: Aparece Perl, un lenguaje flexible utilizado ampliamente en desarrollo web.

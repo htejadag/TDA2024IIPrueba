@@ -1,4 +1,5 @@
 Después de muchos años, mucha azúcar en la sangre puede causar problemas en su cuerpo. Puede dañar sus ojos, riñones, nervios, piel, corazón y vasos sanguíneos.
+<<<<<<< Updated upstream
 
 
 
@@ -10,3 +11,6 @@ WALTER SANCHEZ
 WALTER SANCHEZ
 WALTER SANCHEZ
 WALTER SANCHEZ
+=======
+Manuel Chirinos BArbarán
+>>>>>>> Stashed changes
