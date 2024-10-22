@@ -36,6 +36,7 @@ ronny panduro
 8. Tendencias actuales
 Hoy en día, los lenguajes y entornos de programación están orientados a:
 
+Gamboa estuvo aqui :u
 Programación web y cloud computing (JavaScript, TypeScript).
 Machine learning e inteligencia artificial (Python, Julia).
 Desarrollo móvil (Kotlin, Swift).
