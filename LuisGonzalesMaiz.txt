@@ -6,6 +6,8 @@ La arquitectura de una aplicación en Angular se basa en ciertos conceptos funda
 
 ronny panduro
 
+
+WALTER SANCHEZ
 Los componentes definen vistas, que son conjuntos de elementos de la pantalla que Angular puede elegir y modificar de acuerdo con la lógica y los datos de tu programa.
 
 
